@@ -1,6 +1,6 @@
 # Galeria-flex-
 
-[](./galeria%20flex.png)
+![](./galeria%20flex.png)
 
 ## Tecnologias
 * CSS
