@@ -2,7 +2,7 @@
 
 [](./galeria%20flex.png)
 
-## Tecnoloogias
+## Tecnologias
 * CSS
 * HTML
 * Markdown
